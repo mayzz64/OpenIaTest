@@ -1,5 +1,5 @@
 import gym
-env = gym.make('CartPole-v0')
+env = gym.make('SpaceInvaders-v0')
 env.reset()
 
 for i in range(100):
